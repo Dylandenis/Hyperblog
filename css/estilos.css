@@ -31,6 +31,11 @@ body{
     font-size: 0.8cm;
 }
 
+#cabecera #imagen{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline{
     padding: 0 0 0 0;
     font-weight: normal;
